@@ -1,0 +1,10 @@
+[
+  {
+    "package": "huge",
+    "oncran": true
+  },
+  {
+    "package": "SAM",
+    "oncran": true
+  }
+]
