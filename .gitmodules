@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "huge"]
-	path = huge
-	url = https://github.com/hmjianggatech/huge
 [submodule "SAM"]
 	path = SAM
 	url = https://github.com/hmjianggatech/sam
+[submodule "huge"]
+	path = huge
+	url = https://github.com/hmjianggatech/huge
