@@ -5,6 +5,3 @@
 [submodule "SAM"]
 	path = SAM
 	url = https://github.com/hmjianggatech/sam
-[submodule "huge"]
-	path = huge
-	url = https://github.com/hmjianggatech/huge
